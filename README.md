@@ -40,6 +40,3 @@ Combined from two IMDb public datasets: `title.basics` (movie metadata) and `tit
 3. Install required packages listed at the top of the file (`pandas`, `numpy`, `matplotlib`, `scikit-learn`).
 4. Run the script sequentially to reproduce the cleaning, EDA, and modeling steps.
 
-## AI Use
-
-ChatGPT was used to help with Python scripts and syntax. All written analysis and interpretation are the author's own.
